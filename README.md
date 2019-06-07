@@ -1,4 +1,4 @@
-Update June 6 2019: Changing link to EBI ftp site, which works with up-to-date build of git-annex from http://source.git-annex.branchable.com as of June 3 2019. Note that git-annex had ftp data sources disabled for some time between early 2018 and June 2019.
+Update June 6 2019: Changing data repository links to EBI ftp site, which works with up-to-date build of git-annex from http://source.git-annex.branchable.com as of June 3 2019. Note that git-annex had ftp data sources disabled for some time between early 2018 and June 2019.
 
 This directory contains the following files:
 
